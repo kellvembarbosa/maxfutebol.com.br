@@ -1,0 +1,29 @@
+{
+  "name": "next-started-with-express-ts-styled-components",
+  "version": "1.0.0",
+  "scripts": {
+    "devnode": "node server.js",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "cross-env NODE_ENV=production node server.js",
+    "startnext ": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@types/styled-components": "latest",
+    "cross-env": "latest",
+    "express": "latest",
+    "next": "latest",
+    "next-nprogress-emotion": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "styled-components": "^latest",
+    "styled-reset": "latest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "typescript": "latest"
+  }
+}
