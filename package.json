@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@emotion/react": "latest",
-    "@types/styled-components": "latest",
+    "@types/styled-components": "^5.1.9",
     "cross-env": "latest",
     "express": "latest",
     "next": "latest",
